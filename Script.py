@@ -3,7 +3,7 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 🔎.
 
 𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝 ? 
-✯ 𝚂𝚃𝙴𝙿 1 : 𝙹𝚘𝚒𝚗 <a href=https://t.me/+tM_k94XkPDcxOGE1>𝐌𝐨𝐯𝐢𝐞𝐬 𝐆𝐫𝐨𝐮𝐩</a>
+✯ 𝚂𝚃𝙴𝙿 1 : 𝙹𝚘𝚒𝚗 <a href=https://t.me/whatstarwebshow>Our Channel</a>
 ✯ 𝚂𝚃𝙴𝙿 2 : 𝙲𝚕𝚒𝚌𝚔 " 𝚂𝚎𝚊𝚛𝚌𝚑 " 
 ✯ 𝚂𝚃𝙴𝙿 3 : 𝚃𝚢𝚙𝚎 𝚈𝚘𝚞𝚛 𝙼𝚘𝚟𝚒𝚎𝚜 𝙽𝚊𝚖𝚎 ."""
 
