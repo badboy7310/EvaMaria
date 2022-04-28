@@ -6,6 +6,7 @@ class script(object):
 ✯ 𝚂𝚃𝙴𝙿 1 : 𝙹𝚘𝚒𝚗 <a href=https://t.me/+tM_k94XkPDcxOGE1>𝐌𝐨𝐯𝐢𝐞𝐬 𝐆𝐫𝐨𝐮𝐩</a>
 ✯ 𝚂𝚃𝙴𝙿 2 : 𝙲𝚕𝚒𝚌𝚔 " 𝚂𝚎𝚊𝚛𝚌𝚑 " 
 ✯ 𝚂𝚃𝙴𝙿 3 : 𝚃𝚢𝚙𝚎 𝚈𝚘𝚞𝚛 𝙼𝚘𝚟𝚒𝚎𝚜 𝙽𝚊𝚖𝚎 . 
+
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -17,7 +18,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Credit Goes to Respected Owner. 
-- Source - ✌️  
+- Source - Its Closed Project  
 
 <b>DEVS:</b>
 - <a href=https://t.me/thesatyamxyz>Satyam</a>"""
